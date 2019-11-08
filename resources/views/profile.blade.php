@@ -8,7 +8,7 @@
 		@csrf
 		<div class="input-group mb-3">
 		  <div class="input-group-prepend">
-		    <span class="input-group-text">Upload</span>
+		    <span class="input-group-text">Why this</span>
 		  </div>
 		  <div class="custom-file">
 		    <input type="file" name="avatar" class="custom-file-input" id="avatar">
